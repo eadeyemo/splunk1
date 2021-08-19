@@ -1,4 +1,4 @@
-[200~echo "changing directory to /opt"
+echo "changing directory to /opt"
 cd /opt
 
 echo "installing utilities"
